@@ -1,0 +1,1 @@
+python generate_wav.py box.jpg box2.wav
